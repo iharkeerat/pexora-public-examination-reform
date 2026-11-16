@@ -1,0 +1,14 @@
+# Private source, raw correspondence and other unpublished documents
+private/
+source-private/
+correspondence-private/
+*.key
+*.pem
+.env
+.env.*
+.DS_Store
+__pycache__/
+*.pyc
+# Do not commit the 870-page original or supporting correspondence archive.
+PEXORA_Proposal_.pdf
+supporting_docs.pdf
